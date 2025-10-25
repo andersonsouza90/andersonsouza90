@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anderson
-- 👀 I work with Java, Angular and Coldfusion ...
+- 👀 I work with Java
 - 💞️ I’m looking to collaborate on sharing knowledge ...
 - 📫 How to reach me: 
 https://www.linkedin.com/in/andersonsilvadesouza/ |||
